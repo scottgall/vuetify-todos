@@ -4,8 +4,8 @@
     <v-btn text color="pink">button</v-btn>
 
     <v-btn class="pink white--text">
-      <span>email me</span>
-      <v-icon right large>email</v-icon>
+      <span left>email me</span>
+      <v-icon right>mdi-email</v-icon>
 
     </v-btn>
   </div>
