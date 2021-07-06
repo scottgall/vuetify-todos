@@ -6,7 +6,7 @@
     <v-btn class="pink white--text">
       <span left>email me</span>
       <v-icon right>mdi-email</v-icon>
-
+      <div></div>
     </v-btn>
   </div>
 </template>
